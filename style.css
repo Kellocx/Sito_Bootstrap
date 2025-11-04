@@ -1,0 +1,118 @@
+
+/* SEZIONE NAVBAR   */
+
+.item_right {
+    margin-left: auto;
+}
+
+
+.custom-color{
+    background-color: #3c3535;
+}
+
+/* DIMENSIONI SEZIONI   */
+section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+} 
+
+
+/* SEZIONE HERO   */
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: url('./img/bg-hero.jpg') center/cover no-repeat;
+}
+
+
+.display-2 {
+    margin-top: 0px;
+}
+
+
+/* SEZIONE ABOUT   */
+/* sezione cerchio sinistra  */
+.circle-image {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%; /* rende il div rotondo */
+    overflow: hidden; /* nascondere le parti dell immagine fuori dal cerchio */
+    border: 2px solid grey;
+  
+}
+
+.circle-image img {
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover; /* ritaglia l immagine */
+
+}
+
+
+/* SEZIONE 3 IMMAGINI (gallery)*/
+.image-card{
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    bottom: 10px;
+    color: white;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.image-card img {
+    display: block;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.center-image {
+    z-index: 2;
+    transform: scale(1.25);
+}
+
+.p-center{
+
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+/* SEZIONE CONTATTI (sezione form) */
+
+form .form-control {
+
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+form .form-control:focus {
+
+    border-color: blue;
+    box-shadow: 0 0 6px yellow;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: #3c3535;
+    color: white;
+    text-align: center;
+    padding: 2% 0;
+}
+
+footer small {
+    color: #999
+}
+
+
+
+
