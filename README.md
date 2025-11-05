@@ -20,7 +20,7 @@
 | Html      | Markup     | 5        |
 | CSS       | Style      | 4        |
 | JS        | Logic      | es7      |
-| Bootstrap | Style      | 22.20    |
+| Bootstrap | Libreria   | 22.20    |
 
 
 🖥️
