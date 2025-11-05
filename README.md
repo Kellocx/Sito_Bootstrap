@@ -1,0 +1,12 @@
+# Bootstrap Sito componenti
+*Novembre 2025*
+
+---
+
+**Immagini dell' applicazione**
+
+![Screenshot dell app](./img/Screenshot1.png)
+![Screenshot dell app](./img/Screenshot2.png)
+![Screenshot dell app](./img/Screenshot3.png)
+![Screenshot dell app](./img/Screenshot4.png)
+![Screenshot dell app](./img/Screenshot5.png)
