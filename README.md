@@ -10,3 +10,20 @@
 ![Screenshot dell app](./img/Screenshot3.png)
 ![Screenshot dell app](./img/Screenshot4.png)
 ![Screenshot dell app](./img/Screenshot5.png)
+---
+
+
+
+🔨
+| Nome      | Linguaggio | Versione |
+|-----------|------------|----------|
+| Html      | Markup     | 5        |
+| CSS       | Style      | 4        |
+| JS        | Logic      | es7      |
+| Bootstrap | Style      | 22.20    |
+
+
+🖥️
+```bash
+cd ./SITO 
+Avviare Golive da VS-Code per parte FrontEnd
